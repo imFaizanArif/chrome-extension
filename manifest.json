@@ -1,0 +1,15 @@
+{
+    "name": "First Extension",
+    "description": "This is my First Extension",
+    "version": "0.1",
+    "permissions": [
+        "contextMenus",
+        "activeTab"
+    ],
+    "background": {
+        "scripts": [
+            "script.js"
+        ]
+    },
+    "manifest_version": 2
+}
